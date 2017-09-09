@@ -1,0 +1,29 @@
+{
+  "name": "friendsfinder",
+  "version": "1.0.0",
+  "description": "Node and Express Servers assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "{",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sambo68/FriendsFinder.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "IMA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sambo68/FriendsFinder/issues"
+  },
+  "homepage": "https://github.com/Sambo68/FriendsFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "path": "^0.12.7"
+  }
+}
